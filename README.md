@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tensorflow ,java,**
 
-- 💬 Ask me about **Python, Machine leaning algorithm**
+- 💬 Ask me about **Python, Machine leaning algorithm,Data science, Artificial Intteligamce and Deep leaning **
 
 - 📫 How to reach me **gauravmishra892001@gmail.com**
 
