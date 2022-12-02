@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kumar Mishra</h1>
-<h3 align="center">Aspiring Machine Learning and Software Developer, proficient in Data Science with a focus on Feature Engineering, Data pre-processing, Creating Sklearn's Custom Transformer, full-stack development, Web Scraping (Beautiful soup and selenium), and Python Programming and Java.</h3>
+<h3 align="center">Aspiring Machine Learning and Software Developer,full-stack development, and Python Programming and Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravblog-art&label=Profile%20views&color=0e75b6&style=flat" alt="gauravblog-art" /> </p>
 
