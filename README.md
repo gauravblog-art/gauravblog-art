@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravblog-art&label=Profile%20views&color=0e75b6&style=flat" alt="gauravblog-art" /> </p>
 
-- 🌱 I’m currently learning ** Javascript, Java,**
+- 🌱 I’m currently learning **Javascript, Java**
 
 - 💬 Ask me about **Python, Machine leaning algorithm,Data science, Artificial Intteligamce and Deep leaning**
 
